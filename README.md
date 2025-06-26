@@ -3,7 +3,7 @@
 
 
 ## 📌 Features
-- **Neural network model** with 92% accuracy on imbalanced dataset
+- **Neural network model** with 0.81 F1 score and 84% recall on imbalanced dataset
 - **Robust preprocessing**:
   - Transaction amount scaling using `RobustScaler`
   - Time feature normalization
