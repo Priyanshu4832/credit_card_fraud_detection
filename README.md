@@ -1,3 +1,7 @@
+# Credit Card Fraud Detection System
+*A machine learning pipeline to identify fraudulent transactions using neural networks*
+
+
 ## 📌 Features
 - **Neural network model** with 92% accuracy on imbalanced dataset
 - **Robust preprocessing**:
